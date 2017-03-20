@@ -1,0 +1,14 @@
+{
+  "name": "promise-demo",
+  "description": "Demostration of Promises",
+  "version": "1.0.0",
+  "authors": [
+    "Bryan Wood <whenidev@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "angular": "^1.6.3",
+    "bootstrap": "^3.3.7"
+  }
+}
